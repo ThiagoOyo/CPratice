@@ -7,7 +7,7 @@ int main(){
 	setlocale(LC_ALL, "Portuguese_Brazil");
  	int i ,numero,fibonacci[100];
     int a=1;
-    printf("Me forneça o numero:");
+    printf("Me forneÃ§a o numero:");
     scanf("%d",&numero);
     fibonacci[0]=0;
     fibonacci[1]=1;
