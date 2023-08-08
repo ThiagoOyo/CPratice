@@ -9,7 +9,7 @@ int main (){
     {
         for ( j = 0; j < 3; j++)
         {
-            printf ("ME forneça o valor da matrix na posicao %d %d: ",i,j);
+            printf ("ME forneÃ§a o valor da matrix na posicao %d %d: ",i,j);
             scanf("%d",&matris[i][j]);
         }
         
