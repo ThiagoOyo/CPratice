@@ -9,7 +9,7 @@ int main(){
     {
         for ( j = 0; j < 6; j++)
         {
-           printf("Me forneça o numero a ser armazenado em [%d] [%d]: ", i,j);
+           printf("Me forneÃ§a o numero a ser armazenado em [%d] [%d]: ", i,j);
            scanf("%d",&num[i][j]);
         }
         
