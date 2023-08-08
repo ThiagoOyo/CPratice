@@ -9,7 +9,7 @@ int main(){
     {
         for ( j = 0; j < 3; j++)
         {
-            printf("Me forneça a nota %d do aluno %d (%d,%d): 0",j,i,i,j);
+            printf("Me forneÃ§a a nota %d do aluno %d (%d,%d): 0",j,i,i,j);
             scanf("%d",&matrix[i][j]);
         }
         
