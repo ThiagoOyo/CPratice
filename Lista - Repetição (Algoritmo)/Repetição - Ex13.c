@@ -8,7 +8,7 @@ int main(){
 	int i,maior=0,menor=10000,num[10000];
     for ( i = 0; i < 1000 ; i++)
     {
-        printf("Forneça o numero da posição %d:",i);
+        printf("ForneÃ§a o numero da posiÃ§Ã£o %d:",i);
         scanf("%d",&num[i]);
         if (num[i]<0)
          {
