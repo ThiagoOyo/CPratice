@@ -13,7 +13,7 @@ int main(){
         scanf("%d",&num[i]);
         while (num[i]<=0)
         {
-           printf("Numero néo é positivo :");
+           printf("Numero nÃ©o Ã© positivo :");
             scanf("%d",&num[i]);
         }
         
@@ -22,7 +22,7 @@ int main(){
     {
        media+=num[i];
     }
-    printf("A Media é:%d",media/2);
+    printf("A Media Ã©:%d",media/2);
 
     return(0);
 }
