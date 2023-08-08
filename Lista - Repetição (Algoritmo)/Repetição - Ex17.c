@@ -14,7 +14,7 @@ int main(){
         printf("Primo");
     }
     while (numero < 1){
-        printf("Numero digitado é menor ou igual a 1\n por favor digite um numero maior que 1: ");
+        printf("Numero digitado Ã© menor ou igual a 1\n por favor digite um numero maior que 1: ");
         scanf("%d",&numero);
     }
     
